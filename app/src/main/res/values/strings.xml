@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimalLibrary</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="breed_label">Breed:</string>
+    <string name="animal_breed">Animal Breed</string>
+    <string name="animal_age">Animal Age</string>
+    <string name="animal_name">Animal Name</string>
+</resources>
